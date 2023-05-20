@@ -31,7 +31,8 @@ CREATE TABLE IF NOT EXISTS bookings
 	booking_date DATE,
 	table_number INT, 
 	number_of_guests INT,
-	CustomerID INT);
+	CustomerID INT
+);
 	
 --- insert booking records into booking table
 INSERT INTO bookings
