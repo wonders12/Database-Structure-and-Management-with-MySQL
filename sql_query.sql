@@ -54,7 +54,8 @@ VALUES
 CREATE TABLE IF NOT EXISTS courses 
 (  
 	course_name VARCHAR(255) PRIMARY KEY,  
-	cost Decimal(4,2));
+	cost Decimal(4,2)
+);
 	
 INSERT INTO courses
 VALUES
