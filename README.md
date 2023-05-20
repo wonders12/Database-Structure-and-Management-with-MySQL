@@ -20,5 +20,10 @@ With our database created, we've secured our digital haven for our data-driven e
 
 So, buckle up, fellow adventurer, and let's set sail on this thrilling MySQL journey. With our "project_db" database securely anchored, we're ready to dive into the world of schema creation, table design, and the captivating art of inserting values. Let the data-driven adventure begin!
 
+#### create customers table and insert value
+
+![Uploading image.png…]()
+
+
 ### Conclusion
 Embarking on this personal project has been an enlightening and rewarding journey into the realm of database structures and management using MySQL. I have witnessed the transformative power of efficient data organization, retrieval, and manipulation firsthand. As I share my experiences and insights, I hope to inspire others to embark on their own personal journeys, unlocking the potential of MySQL to tame the vast seas of data and chart their own course towards success. Together, let's harness the power of MySQL and embark on a data-driven adventure like no other.
