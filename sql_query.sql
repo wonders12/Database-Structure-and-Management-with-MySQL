@@ -102,10 +102,10 @@ SELECT c.full_name
 FROM customers c, bookings b1 
 WHERE c.customer_id = b1.CustomerID 
 AND b1.booking_date = ALL (
-							SELECT b2.booking_date 
-							FROM bookings b2 
-							WHERE b2.booking_date = "2021-11-11"
-						) ; 
+			   SELECT b2.booking_date 
+			   FROM bookings b2 
+			   WHERE b2.booking_date = "2021-11-11"
+			) ; 
 
 						
 --- CASE 8: Create the "BookingsView" virtual table to print all bookings IDs, bookings dates and the number of guests for bookings made in the restaurant before 2021-11-13 and where number of guests is larger than 3.
