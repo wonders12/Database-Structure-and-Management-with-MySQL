@@ -1,9 +1,13 @@
+--- create database for the project
+CREATE DATABASE project_db;
+
 --- create customers table
 CREATE TABLE IF NOT EXISTS customers 
 (  
 	customer_id INT NOT NULL PRIMARY KEY,  
 	full_name VARCHAR(100) NOT NULL,  
-	phone_number INT NOT NULL);  
+	phone_number INT NOT NULL
+);  
 	
 
 --- insert value into the customer table
