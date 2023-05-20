@@ -20,9 +20,12 @@ With our database created, we've secured our digital haven for our data-driven e
 
 So, buckle up, fellow adventurer, and let's set sail on this thrilling MySQL journey. With our "project_db" database securely anchored, we're ready to dive into the world of schema creation, table design, and the captivating art of inserting values. Let the data-driven adventure begin!
 
-#### create customers table and insert value
+##### Steps:
+- create customers table with data.
+- create table for bookings record with data.
+- create restaurant's courses table with data.
 
-![Uploading image.png…]()
+
 
 
 ### Conclusion
