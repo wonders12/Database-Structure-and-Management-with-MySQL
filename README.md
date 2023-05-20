@@ -41,6 +41,13 @@ So, buckle up, fellow adventurer, and let's set sail on this thrilling MySQL jou
 
 ![image](https://github.com/wonders12/Database-Structure-and-Management-with-MySQL/assets/50216723/489a2da5-7487-4248-b333-e91248fd4492)
 
+*Problem 3:*
+
+![image](https://github.com/wonders12/Database-Structure-and-Management-with-MySQL/assets/50216723/1617b105-8730-4b6d-a6e6-8e15670f18e3)
+
+*Problem 4:*
+
+![image](https://github.com/wonders12/Database-Structure-and-Management-with-MySQL/assets/50216723/b9cc692d-b13b-4c8b-b0ce-9b480095a4e6)
 
 
 
