@@ -25,6 +25,23 @@ So, buckle up, fellow adventurer, and let's set sail on this thrilling MySQL jou
 - create table for bookings record with data.
 - create restaurant's courses table with data.
 
+#### Business problems to solve:
+- Create SQL statement to print all records from Bookings table for the following bookings dates using the BETWEEN operator: 2021-11-11, 2021-11-12 and 2021-11-13. 
+- Create a JOIN SQL statement on the Customers and Bookings tables. The statement must print the customers full names and related bookings IDs from the date 2021-11-11.
+- Create a SQL statement to print the bookings dates from Bookings table. The statement must show the total number of bookings placed on each of the printed dates using the GROUP BY BookingDate. 
+- Create a SQL REPLACE statement that updates the cost of the Kabsa course from $17.00 to $20.00. The expected output result should be the same as that shown in the following screenshot:
+- Create a new table called "DeliveryAddress" in the project_db database with the following columns and constraints: ID INT PRIMARY KEY, Address VARCHAR(255) NOT NULL, Type NOT NULL DEFAULT "Private" and CustomerID INT NOT NULL FOREIGN KEY referencing CustomerID in the Customers table
+
+#### Solution to the above business problem using MySQL quert and Result
+*Problem 1:* 
+
+![image](https://github.com/wonders12/Database-Structure-and-Management-with-MySQL/assets/50216723/1a9bbe71-8f24-4d39-91a4-5c239130609d)
+
+*Problem 2:*
+
+![image](https://github.com/wonders12/Database-Structure-and-Management-with-MySQL/assets/50216723/489a2da5-7487-4248-b333-e91248fd4492)
+
+
 
 
 
