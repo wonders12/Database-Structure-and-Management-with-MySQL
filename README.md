@@ -79,8 +79,7 @@ So, buckle up, fellow adventurer, and let's set sail on this thrilling MySQL jou
 
 *CASE 10:*
 
-
-
+![image](https://github.com/wonders12/Database-Structure-and-Management-with-MySQL/assets/50216723/aa192d2d-1bc1-495c-a62b-b4eb04fff926)
 
 
 ### Conclusion
