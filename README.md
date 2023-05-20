@@ -70,6 +70,8 @@ So, buckle up, fellow adventurer, and let's set sail on this thrilling MySQL jou
 
 *CASE 8:*
 
+![image](https://github.com/wonders12/Database-Structure-and-Management-with-MySQL/assets/50216723/0e262b54-ace3-4eb9-810f-da85ede87e15)
+
 *CASE 9:*
 
 *CASE 10:*
