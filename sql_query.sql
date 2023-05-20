@@ -73,7 +73,7 @@ WHERE booking_date BETWEEN "2021-11-11" AND "2021-11-13" ;
 --- CASE 2: Create a JOIN SQL statement on the Customers and Bookings tables. The statement must print the customers full names and related bookings IDs from the date 2021-11-11.
 SELECT c.full_name, b.booking_id 
 FROM customers c, bookings b 
-WHERE c.customer_id = b.CustomerID AND  	   b.booking_date = "2021-11-11" ; 
+WHERE c.customer_id = b.CustomerID AND b.booking_date = "2021-11-11" ; 
 
 --- CASE 3: Create a SQL statement to print the bookings dates from Bookings table. The statement must show the total number of bookings placed on each of the printed dates using the GROUP BY BookingDate.  
 SELECT booking_date, COUNT(*) no_of_booking_per_day 
